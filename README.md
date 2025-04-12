@@ -1,11 +1,5 @@
 # Dublin-Rental-Data
 
-Here's a `README.md` file for your GitHub repo based on the uploaded Jupyter notebooks (`Data Collection.ipynb`, `Data Preparation and Analysis.ipynb`) and the HTML version of your data collection task. The project appears to focus on gathering and analyzing data — likely for a machine learning or data science application.
-
----
-
-# 📊 Data Collection and Analysis
-
 This repository contains a complete data science workflow focused on **data collection** and **preparation**. The project includes structured notebooks for scraping data, cleaning it, and performing initial analysis — laying the groundwork for further machine learning or visualization work.
 
 ## 🗂 Project Structure
